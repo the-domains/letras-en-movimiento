@@ -53,11 +53,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=2gu9l_TqS8I'
 title: Entrevista a Jorge Luis Borges en 'A Fondo' (1976)
-datePublished: '2016-07-23T04:23:13.039Z'
-dateModified: '2016-07-23T04:23:03.431Z'
+datePublished: '2016-07-23T18:19:54.841Z'
+dateModified: '2016-07-23T18:19:54.737Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-entrevista-a-jorge-luis-borges-en-a-fondo-1976.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
