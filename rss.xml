@@ -4,8 +4,15 @@
         <description><![CDATA[Letras en movimiento]]></description>
         <link>https://thegrid.ai/letras-en-movimiento/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 03:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 03:02:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/letras-en-movimiento/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/435a5eca-fa29-4bcb-8366-205d3aa289b7.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/435a5eca-fa29-4bcb-8366-205d3aa289b7.jpg</link>
+            <guid isPermaLink="false">e572cb42-fc1d-4743-8108-622224321896</guid>
+            <pubDate>Sat, 23 Jul 2016 03:02:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bukowski]]></title>
             <description><![CDATA[<article><h1>Bukowski</h1><p>Documental sobre uno de los mejores poetas estadounidenses del siglo XX; Charles Bukowski, dueño de una sensibilidad absolutamente particular que hizo estremecer los ojos de cientos de lectores y personas que admiraban a este señor-hombre-ángel-bestia-dios de los infiernos-corazón sonrisa-amor de la vida y de la poesía y de las galaxias que giran sobre el útero de la conciencia, paz, divinidad absoluta, carne de la carne.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/913b62ddd77d2054e117fa9c1bb42c58/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F4x-HRSmWHtU%2Fhqdefault.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://es.wikipedia.org/wiki/Roberto_Arlt</link>
             <guid isPermaLink="false">f5b707c5-aacc-4bf8-89fa-2d8f7f810f17</guid>
             <pubDate>Sat, 23 Jul 2016 00:24:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/435a5eca-fa29-4bcb-8366-205d3aa289b7.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/435a5eca-fa29-4bcb-8366-205d3aa289b7.jpg</link>
-            <guid isPermaLink="false">e572cb42-fc1d-4743-8108-622224321896</guid>
-            <pubDate>Fri, 22 Jul 2016 23:28:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
