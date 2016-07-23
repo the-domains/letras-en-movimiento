@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T06:14:38.306Z'
+datePublished: '2016-07-23T18:19:54.919Z'
 sourcePath: _posts/2016-07-23-born-into-this-charles-bukowski-subtitulado.md
 hasPage: true
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'https://www.youtube.com/user/pdelfindelmundo'
     avatar: {}
 via: {}
-dateModified: '2016-07-23T06:14:37.067Z'
+dateModified: '2016-07-23T18:19:54.801Z'
 title: Bukowski
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=4x-HRSmWHtU&feature=applinks'
