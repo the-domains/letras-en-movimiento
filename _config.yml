@@ -1,14 +1,14 @@
-layout_spectrum: 0.048013197258114815
-typography_spectrum: 0.6298507696483284
+layout_spectrum: 0.9112887806259096
+typography_spectrum: 0.730867174686864
 color:
-  brandStrength: 0.9749740769620985
-  lightness: 0.707970604300499
-  saturation: 0.8237376140896231
-  rhythmicContrast: 0.055115483701229095
+  brandStrength: 0.7552888381760567
+  lightness: 0.8911930322647095
+  saturation: 0.35582172800786793
+  rhythmicContrast: 0.6744137697387487
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 name: Letras en movimiento
