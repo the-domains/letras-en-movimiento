@@ -1,10 +1,10 @@
-layout_spectrum: 0.6563108668196946
-typography_spectrum: 0.09134876565076411
+layout_spectrum: 0.9112887806259096
+typography_spectrum: 0.730867174686864
 color:
-  brandStrength: 0.024735328275710344
-  lightness: 0.9881164806429297
-  saturation: 0.6914637626614422
-  rhythmicContrast: 0.1518831173889339
+  brandStrength: 0.7552888381760567
+  lightness: 0.8911930322647095
+  saturation: 0.35582172800786793
+  rhythmicContrast: 0.6744137697387487
   brandColors:
     - '#225378'
     - '#1695A3'
@@ -12,3 +12,8 @@ color:
     - '#F3FFE2'
     - '#EB7F00'
 name: Letras en movimiento
+navigation:
+  - id: 'http//:facebook.com'
+    url: 'http//:facebook.com'
+    name: redes sociales
+    type: external
