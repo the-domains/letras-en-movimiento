@@ -56,12 +56,12 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=g6obUECR71Y'
 title: Barfly 1987 Mickey Rourke Faye Dunaway subtitulada al español V.O.S.E.
-datePublished: '2016-07-23T05:32:33.583Z'
-dateModified: '2016-07-23T05:32:18.767Z'
+datePublished: '2016-07-23T18:19:54.603Z'
+dateModified: '2016-07-23T18:19:54.493Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-23-barfly-1987-mickey-rourke-faye-dunaway-subtitulada-al-espano.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
