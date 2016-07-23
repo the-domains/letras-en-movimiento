@@ -11,9 +11,5 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
-name: Letras en movimiento
-navigation:
-  - id: 'http//:facebook.com'
-    url: 'http//:facebook.com'
-    name: redes sociales
-    type: external
+name: Santiflash
+navigation: []
