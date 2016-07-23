@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-07-23T03:00:14.686Z'
+datePublished: '2016-07-23T04:27:43.465Z'
 sourcePath: _posts/2016-07-23-born-into-this-charles-bukowski-subtitulado.md
-isBasedOnUrl: 'https://www.youtube.com/watch?v=4x-HRSmWHtU'
+hasPage: true
 keywords: []
 related: []
 author:
@@ -9,7 +9,7 @@ author:
     url: 'https://www.youtube.com/user/pdelfindelmundo'
     avatar: {}
 via: {}
-dateModified: '2016-07-23T03:00:13.894Z'
+dateModified: '2016-07-23T04:27:42.752Z'
 title: Bukowski
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=4x-HRSmWHtU&feature=applinks'
@@ -62,9 +62,7 @@ description: >-
   conciencia, paz, divinidad absoluta, carne de la carne.
 inLanguage: es
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: bukowski/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
