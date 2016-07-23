@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-23T02:55:13.194Z'
+datePublished: '2016-07-23T02:56:57.495Z'
 sourcePath: _posts/2016-07-23-born-into-this-charles-bukowski-subtitulado.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=4x-HRSmWHtU'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-23T02:55:11.386Z'
+dateModified: '2016-07-23T02:56:55.592Z'
 title: Bukowski
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=4x-HRSmWHtU&feature=applinks'
@@ -56,7 +56,7 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a30fa4b3-eacc-464f-9ec5-c98624badff2.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d9eae963a29331fcb440539d0617dcf6/croprotate.jpg?cropheight=1217&cropwidth=799&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa30fa4b3-eacc-464f-9ec5-c98624badff2.jpg&x=0&y=0)
 
 # Bukowski
 
