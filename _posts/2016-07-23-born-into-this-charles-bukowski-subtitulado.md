@@ -1,23 +1,16 @@
 ---
+datePublished: '2016-07-23T02:52:15.761Z'
+sourcePath: _posts/2016-07-23-born-into-this-charles-bukowski-subtitulado.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=4x-HRSmWHtU'
+keywords: []
+related: []
 author:
   - name: Poetas Del Fin Del Mundo
     url: 'https://www.youtube.com/user/pdelfindelmundo'
     avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-keywords: []
-description: >-
-  Documental sobre uno de los mejores poetas estadounidenses del siglo XX;
-  Charles Bukowski, dueño de una sensibilidad absolutamente particular que hizo
-  estremecer los ojos de cientos de lectores y personas que admiraban a este
-  señor-hombre-ángel-bestia-dios de los infiernos-corazón sonrisa-amor de la
-  vida y de la poesía y de las galaxias que giran sobre el útero de la
-  conciencia, paz, divinidad absoluta, carne de la carne.
-inLanguage: es
+via: {}
+dateModified: '2016-07-23T02:52:14.745Z'
+title: Bukowski
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=4x-HRSmWHtU&feature=applinks'
     type: ios
@@ -55,18 +48,27 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=4x-HRSmWHtU'
-title: 'Born Into This, Charles Bukowski [Subtitulado]'
-datePublished: '2016-07-23T00:58:02.819Z'
-dateModified: '2016-07-23T00:57:51.509Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  Documental sobre uno de los mejores poetas estadounidenses del siglo XX;
+  Charles Bukowski, dueño de una sensibilidad absolutamente particular que hizo
+  estremecer los ojos de cientos de lectores y personas que admiraban a este
+  señor-hombre-ángel-bestia-dios de los infiernos-corazón sonrisa-amor de la
+  vida y de la poesía y de las galaxias que giran sobre el útero de la
+  conciencia, paz, divinidad absoluta, carne de la carne.
+inLanguage: es
 starred: false
-sourcePath: _posts/2016-07-23-born-into-this-charles-bukowski-subtitulado.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
+# Bukowski
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4x-HRSmWHtU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4x-HRSmWHtU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4x-HRSmWHtU%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
