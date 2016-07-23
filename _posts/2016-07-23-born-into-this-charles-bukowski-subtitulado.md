@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T04:27:43.465Z'
+datePublished: '2016-07-23T06:14:38.306Z'
 sourcePath: _posts/2016-07-23-born-into-this-charles-bukowski-subtitulado.md
 hasPage: true
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'https://www.youtube.com/user/pdelfindelmundo'
     avatar: {}
 via: {}
-dateModified: '2016-07-23T04:27:42.752Z'
+dateModified: '2016-07-23T06:14:37.067Z'
 title: Bukowski
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=4x-HRSmWHtU&feature=applinks'
@@ -61,7 +61,7 @@ description: >-
   vida y de la poesía y de las galaxias que giran sobre el útero de la
   conciencia, paz, divinidad absoluta, carne de la carne.
 inLanguage: es
-starred: false
+starred: true
 url: bukowski/index.html
 _context: 'http://schema.org'
 _type: VideoObject
