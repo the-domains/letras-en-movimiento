@@ -1,15 +1,15 @@
 layout_spectrum: 0.1176114659756422
-typography_spectrum: 0.5665449006482959
+typography_spectrum: 0.1442518993280828
 color:
-  brandStrength: 0.8130842098034918
-  lightness: 0.9852719893679023
-  saturation: 0.46165995416231453
-  rhythmicContrast: 0.9046427116263658
+  brandStrength: 0.7173685098532587
+  lightness: 0.06662800000049174
+  saturation: 0.353671986842528
+  rhythmicContrast: 0.6562169275712222
   brandColors:
-    - '#5A1F00'
-    - '#D1570D'
-    - '#FDE792'
-    - '#477725'
-    - '#A9CC66'
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
 name: Santiflash
 navigation: []
