@@ -1,15 +1,15 @@
-typography_spectrum: 0.49049398861825466
+typography_spectrum: 0.7965807295404375
 color:
-  brandStrength: 0.8040488439146429
-  lightness: 0.09570005908608437
-  saturation: 0.47344946884550154
-  rhythmicContrast: 0.04942892794497311
+  brandStrength: 0.2557767634280026
+  lightness: 0.7129830138292164
+  saturation: 0.13902315450832248
+  rhythmicContrast: 0.7777276393026114
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 layout_spectrum: 0.8361393525265157
 author:
   name: Santiago
