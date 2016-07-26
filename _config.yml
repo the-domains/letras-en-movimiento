@@ -1,20 +1,21 @@
-typography_spectrum: 0.10235578310675919
+typography_spectrum: 0.49049398861825466
 color:
-  brandStrength: 0.2557767634280026
-  lightness: 0.7129830138292164
-  saturation: 0.13902315450832248
-  rhythmicContrast: 0.7777276393026114
+  brandStrength: 0.8040488439146429
+  lightness: 0.09570005908608437
+  saturation: 0.47344946884550154
+  rhythmicContrast: 0.04942892794497311
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-layout_spectrum: 0.8268483153078705
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+layout_spectrum: 0.8361393525265157
 author:
   name: Santiago
   email: pastiche@gns.net
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/92d08570-0e47-495b-88e0-92822133b481.jpg
 name: 'Letras, Música y Cine'
 navigation:
   - id: 3d4dd780-b730-4d0d-8b58-b2b95f139541
@@ -22,4 +23,4 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bb59617-6cbd-4155-a1fa-f5e6e3251458.jpg
-title: Un pastiche
+title: PASTICHE
