@@ -63,16 +63,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=wYXrQPidJkw'
 title: David Gilmour - Today (Official Music Video)
-datePublished: '2016-07-24T06:03:34.983Z'
-dateModified: '2016-07-24T06:02:58.088Z'
+datePublished: '2016-07-26T04:23:29.957Z'
+dateModified: '2016-07-26T04:23:29.341Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-07-24-david-gilmour-today-official-music-video.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: david-gilmour-today-official-music-video/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
