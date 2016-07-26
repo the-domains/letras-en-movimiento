@@ -11,6 +11,9 @@ color:
     - '#DB9E36'
     - '#BD4932'
 layout_spectrum: 0.1176114659756422
+author:
+  name: Santiago
+  email: pastiche@gns.net
 logo: null
 name: 'Letras, Música y Cine'
 navigation:
