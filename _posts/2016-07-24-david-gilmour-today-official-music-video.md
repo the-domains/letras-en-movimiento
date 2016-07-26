@@ -1,14 +1,8 @@
 ---
-author:
-  - name: David Gilmour
-    url: 'https://www.youtube.com/user/DavidGilmour'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-07-26T04:53:10.614Z'
+sourcePath: _posts/2016-07-24-david-gilmour-today-official-music-video.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=wYXrQPidJkw'
+hasPage: false
 keywords:
   - gilmour
   - duration
@@ -20,12 +14,14 @@ keywords:
   - lock
   - smarturl
   - floyd
-description: >-
-  David Gilmour's "Rattle That Lock" album out now. Buy the album at
-  http://smarturl.it/RattleThatLockAmzDLX Directed by Aubrey Powell for
-  Hipgnosis, the video was shot at The Brighton Centre in the UK, just prior to
-  the first concert in David Gilmour's 'Rattle That Lock 2015-16' tour.
-inLanguage: en
+related: []
+author:
+  - name: David Gilmour
+    url: 'https://www.youtube.com/user/DavidGilmour'
+    avatar: {}
+via: {}
+dateModified: '2016-07-26T04:53:03.086Z'
+title: David Gilmour - Today (Official Music Video)
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=wYXrQPidJkw&feature=applinks'
     type: ios
@@ -63,16 +59,20 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: David Gilmour - Today (Official Music Video)
-datePublished: '2016-07-26T04:23:29.957Z'
-dateModified: '2016-07-26T04:23:29.341Z'
-via: {}
-sourcePath: _posts/2016-07-24-david-gilmour-today-official-music-video.md
-hasPage: true
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  David Gilmour's "Rattle That Lock" album out now. Buy the album at
+  http://smarturl.it/RattleThatLockAmzDLX Directed by Aubrey Powell for
+  Hipgnosis, the video was shot at The Brighton Centre in the UK, just prior to
+  the first concert in David Gilmour's 'Rattle That Lock 2015-16' tour.
+inLanguage: en
 starred: false
-url: david-gilmour-today-official-music-video/index.html
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FwYXrQPidJkw%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwYXrQPidJkw&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwYXrQPidJkw%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
