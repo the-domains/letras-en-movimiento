@@ -1,16 +1,16 @@
-typography_spectrum: 0.4869645156431943
+typography_spectrum: 0.5358192813582718
 color:
-  brandStrength: 0.4171283286996186
-  lightness: 0.6286673040594906
-  saturation: 0.8925812342204154
-  rhythmicContrast: 0.35654010716825724
+  brandStrength: 0.22181717795319855
+  lightness: 0.37932509649544954
+  saturation: 0.1688454586546868
+  rhythmicContrast: 0.26253233035095036
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
-layout_spectrum: 0.744676771806553
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+layout_spectrum: 0.11672944412566721
 author:
   name: Santiago
   email: pastiche@gns.net
