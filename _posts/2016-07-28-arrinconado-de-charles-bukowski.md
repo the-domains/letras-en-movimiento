@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-28T03:03:32.265Z'
+datePublished: '2016-07-28T03:03:33.910Z'
 sourcePath: _posts/2016-07-28-arrinconado-de-charles-bukowski.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ebb2038-28d3-486c-b48f-84893d696abd.jpg
 author: []
 via: {}
-dateModified: '2016-07-28T03:03:31.240Z'
+dateModified: '2016-07-28T03:03:33.364Z'
 title: ''
 publisher: {}
 description: '"ARRINCONADO" de Charles Bukowski'
