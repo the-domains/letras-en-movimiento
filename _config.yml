@@ -1,4 +1,4 @@
-typography_spectrum: 0.2533792096655816
+typography_spectrum: 0.6991232163272798
 color:
   brandStrength: 0.870677886530757
   lightness: 0.3839139910414815
@@ -17,10 +17,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/92d08570-0e47-495b-88e0-92822133b481.jpg
 name: 'Letras, Música y Cine'
-navigation:
-  - id: 3d4dd780-b730-4d0d-8b58-b2b95f139541
-    name: David Gilmour - Today (Official Music Video)
-    type: content
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bb59617-6cbd-4155-a1fa-f5e6e3251458.jpg
 title: PASTICHE
