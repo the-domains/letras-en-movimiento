@@ -1,19 +1,23 @@
 ---
-description: '"ARRINCONADO" de Charles Bukowski'
-dateModified: '2016-07-28T03:03:03.485Z'
-datePublished: '2016-07-28T03:03:07.528Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-07-28T03:03:32.265Z'
 sourcePath: _posts/2016-07-28-arrinconado-de-charles-bukowski.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ebb2038-28d3-486c-b48f-84893d696abd.jpg
+author: []
+via: {}
+dateModified: '2016-07-28T03:03:31.240Z'
+title: ''
+publisher: {}
+description: '"ARRINCONADO" de Charles Bukowski'
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ebb2038-28d3-486c-b48f-84893d696abd.jpg)
+
 "ARRINCONADO" de Charles Bukowski
 
 Bueno, ellos ya decían que llegaría esto:  
