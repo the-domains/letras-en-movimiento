@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-28T04:47:12.269Z'
+datePublished: '2016-07-28T04:52:55.632Z'
 author: []
 via: {}
-dateModified: '2016-07-28T04:47:02.223Z'
+dateModified: '2016-07-28T04:52:55.499Z'
 title: ''
 publisher: {}
 description: PASTICHE TE COPA
-starred: false
 sourcePath: _posts/2016-07-28-pastiche-te-copa.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
