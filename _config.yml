@@ -1,4 +1,4 @@
-typography_spectrum: 0.5787297417409718
+typography_spectrum: 0.22806628770194948
 color:
   brandStrength: 0.870677886530757
   lightness: 0.3839139910414815
@@ -10,7 +10,7 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-layout_spectrum: 0.11672944412566721
+layout_spectrum: 0.9005928062833846
 author:
   name: Santiago
   email: pastiche@gns.net
